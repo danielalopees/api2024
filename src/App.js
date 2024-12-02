@@ -23,7 +23,7 @@ function App() {
               Idade:<span> {user.age}</span>
             </p>
             <p>
-              Telefone:<span>5 {user.email}</span>
+              Email:<span>5 {user.email}</span>
             </p>
           </div>
           <button className="botao">
