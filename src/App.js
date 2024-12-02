@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <form>
-        <h1>Cadastro de um Usuarios</h1>
+        <h1>Cadastros de um Usuarios</h1>
         <input placeholder="Nome" name="nome" type="text" />
         <input placeholder="Idade" name="idade" type="number" />
         <input placeholder="E-mail" name="email" type="email" />
