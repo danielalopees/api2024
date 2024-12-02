@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <form>
-        <h1>Cadastros de um Usuarios</h1>
+        <h1>Cadastro de um Usuarios</h1>
         <input placeholder="Nome" name="nome" type="text" />
         <input placeholder="Idade" name="idade" type="number" />
         <input placeholder="E-mail" name="email" type="email" />
@@ -23,7 +23,7 @@ function App() {
               Idade:<span> {user.age}</span>
             </p>
             <p>
-              Email:<span>5 {user.email}</span>
+              Telefone:<span>5 {user.email}</span>
             </p>
           </div>
           <button className="botao">
